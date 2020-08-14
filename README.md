@@ -1,2 +1,4 @@
-# rxue811
-Hi my name is Rui Xue, this message is for cs235
+
+# rxue811-235-lab2
+This is for cs235
+>>>>>>> origin
